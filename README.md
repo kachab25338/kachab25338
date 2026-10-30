@@ -1,16 +1,42 @@
-## Hi there 👋
+# Ciao! 👋
 
-<!--
-**kachab25338/kachab25338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono una studentessa di Informatica e questo è l'inizio
+del mio portfolio tecnico.
 
-Here are some ideas to get you started:
+## 👤 Qualcosa su di me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sto imparando a usare GitHub 
+
+## ❤️ Le mie passioni
+
+- informatica
+- musica
+- sport
+
+## 💻 Tecnologia ed esperienze
+
+Ho già avuto occasione di utilizzare o conoscere:
+
+- html
+- css
+- c/c++
+
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+
+...
+
+## 🔍 Cosa mi piacerebbe imparare
+
+ cybersecurity;assembly
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+
+
+
+## 🎯 Guardando al futuro
+
+-scuola:finire gli studi e  prendere il diploma 
+-lavoro: trovare un lavoro che mi piace e che mi permetta di essere indipendente 
+
+
+
