@@ -22,8 +22,7 @@ Ho già avuto occasione di utilizzare o conoscere:
 - c/c++
 
 ## 🧠 Una cosa che potrei insegnare ai miei compagni
-
-...
+non lo so 
 
 ## 🔍 Cosa mi piacerebbe imparare
 
@@ -31,7 +30,7 @@ Ho già avuto occasione di utilizzare o conoscere:
 
 ## 🚀 Un progetto che mi piacerebbe realizzare
 
-
+un progetto fatto in autonomia 
 
 ## 🎯 Guardando al futuro
 
